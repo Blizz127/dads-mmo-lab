@@ -1,3 +1,6 @@
+This is outdated and archived. see new guides:
+https://github.com/DadsMmoLab/dads-mmo-lab/blob/main/guides/wow-wotlk/README.md
+
 # 🪟 How to Install on Windows — WSL2 Guide
 
 > Run offline MMO servers on any Windows 10 or 11 PC.
