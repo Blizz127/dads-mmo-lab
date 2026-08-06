@@ -1,3 +1,6 @@
+We have long form and detailed guides for installing on multiple different systems, networking, handling mods and modules, server controls, and more.
+https://github.com/DadsMmoLab/dads-mmo-lab/blob/main/guides/wow-wotlk/README.md
+
 # Dad's MMO Lab — Windows Installer: How-To Guide
 
 **Installer:** Dad's MMO Lab Windows Substrate (Install-DML.ps1)
