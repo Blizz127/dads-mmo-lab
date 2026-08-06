@@ -132,7 +132,7 @@ chmod +x ~/Downloads/install-wow-wotlk.sh
 ---
 
 ### `wow-manage.sh` — Interactive Server Manager
-**Platform: Steam Deck / Linux**
+**Platform: Steam Deck / Linux (Windows through WSL - Arch)**
 
 A full-screen, menu-driven terminal script for managing your server after it's installed — no need to remember Docker commands.
 
